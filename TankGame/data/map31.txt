@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXX
+X       O      O       X
+X       O      O       X
+X   G   O   G  O   G   X
+X       O      O       X
+X       O              X
+XOOOOOO O OOOOOOOOOOOOOX
+X       O              X
+X       O      O       X
+X   G   O  G   O   G   X
+X       O      O       X
+X              O       X
+XOOOOOOOOOOOOO O OOOOOOX
+X              O       X
+X       O      O       X
+X   P   O   G  O   G   X
+X       O      O       X
+X       O      O       X
+XXXXXXXXXXXXXXXXXXXXXXXX

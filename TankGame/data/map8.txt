@@ -1,0 +1,19 @@
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X                      X
+X                     TX
+X   #    ##XX##    #   X
+X   #           Y  #   X
+X   ##            ##   X
+X    #            #    X
+X    X            X    X
+X P  X            X    X
+X    X            X    X
+X    #            #    X
+X   ##            ##   X
+X   #          Y   #   X
+X   #    ##XX##    #   X
+X                     TX
+X                      X
+X                      X
+XXXXXXXXXXXXXXXXXXXXXXXX
